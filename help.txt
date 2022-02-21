@@ -1,0 +1,12 @@
+-Site:https://www.twilio.com/blog/bot-facebook-messenger-python
+"****Package nécessaire****"
+python -m pip install --upgrade pip
+pip3 install Flask
+pip3 install pymessenger
+Recopier le code basic du site
+**exécuter ngrok qui est dans document**
+- ngrok http port
+fichier d'authentificaion ngrok
+-C:\Users\glenn/.ngrok2/ngrok.yml
+
+ 
